@@ -1,0 +1,1 @@
+Progetto in cui si effettua classificazione del dataset MNIST.
