@@ -1,0 +1,1 @@
+Progetto di data analytics riguardante la vendita degli iPhone in India.
