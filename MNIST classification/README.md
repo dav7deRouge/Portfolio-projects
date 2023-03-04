@@ -19,6 +19,6 @@ The model was trained for 25 epochs with a learning rate equal to 0.001; the tra
 
 The following picture shows how much *loss* and accuracy change during the 25 epochs training:
 
-<img src="https://github.com/dav7deRouge/Portfolio-projects/blob/main/MNIST%20classification/images/mnist-training-graphs.png" alt="" width="300" height="300" />
+<img src="https://github.com/dav7deRouge/Portfolio-projects/blob/main/MNIST%20classification/images/mnist-training-graphs.png" alt="" width="500" height="500" />
 
 After I trained the model, I evaluated it on the test set; it resulted to have a 97.5% of accuracy so I decided to not continue with more tests involving, for example, a better hyperparameter tuning.
