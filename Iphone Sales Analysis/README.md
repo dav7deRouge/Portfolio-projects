@@ -11,6 +11,8 @@ In order to get the answer I sorted the rows by considering the feature *Star ra
 <img src="https://github.com/dav7deRouge/Portfolio-projects/blob/main/Iphone%20Sales%20Analysis/Graph_images/IphoneRank.png" alt="" width="200" height="200" />
 
 I also decided to plot the graph representing the number of ratings that each device got:
-<img src="https://github.com/dav7deRouge/Portfolio-projects/blob/main/Iphone%20Sales%20Analysis/Graph_images/RatingsPerIphoneModel.html" alt="" width="250" height="300" />
+
+<img src="https://github.com/dav7deRouge/Portfolio-projects/blob/main/Iphone%20Sales%20Analysis/Graph_images/RatingsPerIphoneModel.png" alt="" width="250" height="300" />
+
 After I plotted the device I chose to *normalize* the rating by dividing it for the number of ratings received, the new rank is the following:
 <img src="https://github.com/dav7deRouge/Portfolio-projects/blob/main/Iphone%20Sales%20Analysis/Graph_images/NewIphoneRank.png" alt="" width="200" height="200" />
