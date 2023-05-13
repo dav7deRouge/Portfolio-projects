@@ -7,4 +7,4 @@ Some of the libraries used in this project are the following:
 * *ggplot2* for visualizations;
 * *dplyr* for data manipulation.
 
-I highly recommend you to have a look directly at the notebook because you will find all the infos about this project there (and lots of graphs).
+I highly recommend you to have a look directly at the notebook because you will find all the infos about this project there (and lots of plots).
